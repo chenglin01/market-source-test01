@@ -1,7 +1,0 @@
-workloads:
-  immich:
-    replicaCount: 1
-  immich-redis:
-    replicaCount: 1
-  immich-machine-learning:
-    replicaCount: 1
